@@ -16,7 +16,6 @@ from starlette.responses import Response
 #  Import FILES LIBRARIES
 # #
 
-##
 
 app: FastAPI = FastAPI()
 
